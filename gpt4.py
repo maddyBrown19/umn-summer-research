@@ -96,20 +96,21 @@ def make_stage_1_GPT_csv(): #Took about 6 minutes to run
 def get_MedQuAD_questions_with_demographics(): 
     """Function: generates MedQuAD questions with accompanying demographic information about the inquirer
     Return type: list of tuples"""
-    demographics = {"gender": ["male", "female"]}
+    demographics = {"gender": ["male", "female"], "age": [10, 16, 25, 30, 40, 55, 70, 85]}
     MedQuAD_questions = get_random_MedQuAD_questions()
     questions_with_demographics = []
     for question in MedQuAD_questions:
         random_gender = str(random.choices(demographics["gender"])[0])
-        question_with_demographics = "I am " + random_gender + " and I have the following question. " + question
-        questions_with_demographics.append((random_gender, question_with_demographics))
+        random_age = str(random.choices(demographics["age"])[0])
+        question_with_demographics = "I am a " + random_age + " year old " + random_gender + " and I have the following question. " + question
+        questions_with_demographics.append((random_age, random_gender, question_with_demographics))
     return questions_with_demographics
 
 def get_MedQuAD_questions_with_demographics_df():
     """Function: organizes MedQuAD questions with added demographic information into a DataFrame
     Return type: DataFrame"""
     questions = get_MedQuAD_questions_with_demographics()
-    headers = ["Gender", "Question"]
+    headers = ["Age", "Gender", "Question"]
     df = pd.DataFrame(questions)
     df.columns = headers
     df.insert(0, "Index", df.index)
@@ -193,7 +194,7 @@ def make_stage_3_GPT_csv():
     df = get_stage_3_GPT_df()
     df.to_csv("stage_3_GPT.csv", index = False)
 
-
+make_stage_2_GPT_csv()
 
 
 
