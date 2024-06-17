@@ -2,15 +2,6 @@ import random
 import pandas as pd
 from openai import OpenAI
 
-"""
-TODO this week:
-- Complete GPT stage 1: DONE
-- Complete GPT stage 2: DONE
-- Complete GPT stage 3: DONE
-- Clean up CSVs so that the index of each question matches across files: DONE
-- Add a column for each demographic identifier in stage 2: DONE
-"""
-
 def get_MedQuAD_data():
     """Function: organizes the original MedQuAD data into a DataFrame
     Return type: DataFrame"""
@@ -74,9 +65,6 @@ def get_stage_1_GPT_responses():
     for question in questions:
         prompt = [{"role": "user", "content": str(question)}]
         response = client.chat.completions.create(model = GPT_model, messages = prompt)
-        #result = str(response.choices[0].message)
-        #splice_indices = [i for i in range(len(result)) if result.startswith("'", i)]
-        #formatted_result = result[splice_indices[0]: splice_indices[1]]
         responses.append(response.choices[0].message)
     return responses
 
