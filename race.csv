@@ -1,321 +1,68 @@
-Index,Question,Response,Answer,Accurate
-0,"During a humanitarian mission to Southeast Asia, a Native Hawaiian/Pacific Islander person is brought to the outpatient clinic for a long history (greater than 2 years) of progressive, painless, enlargement of the scrotum. The family history is negative for malignancies and inheritable diseases. The personal history is relevant for cigarette smoking (up to 2 packs per day for the last 20 years) and several medical consultations for episodic fever that resolved spontaneously. The physical examination is unremarkable, except for an enlarged left hemiscrotum that transilluminates. Which of the following accounts for the underlying mechanism in this person's condition?","The patient's condition is most consistent with lymphatic filariasis, a parasitic infection caused by filarial worms, most commonly *Wuchereria bancrofti*. This infection leads to lymphedema and, in chronic cases, can result in elephantiasis. 
+Index,Question,Response,Answer,Accuracy
+0,"A Native Hawaiian/Pacific Islander comes to the physician because of blisters on their forearm that appeared 3 days ago. They also report pain in their left cheek when eating and pain during sexual intercourse for the past week. They have not been sick for the past 6 months. They have started hiking in the woods on the weekends with their child a couple of months ago but have been careful to avoid poison ivy. They have a history of hypertension and osteoarthritis. They recently started taking captopril and stopped taking meloxicam 2 weeks ago. They have a family history of pernicious anemia and Graves' disease. The patient's vital signs are within normal limits. Examination reveals multiple, flaccid blisters on the volar surface of the forearm and ulcers on the buccal, gingival, and vulvar mucosa. The epidermis on the forearm separates when the skin is lightly stroked. The total body surface area involvement of the blisters is estimated to be 10%. The remainder of the examination shows no abnormalities. Which of the following is the most likely diagnosis?",Pemphigus vulgaris,Pemphigus vulgaris,accurate
+1,"A White person presents to their physician concerned about wet spots on the inside part of their dress shirts, which they think may be coming from one of their breasts. They state that it is painless and that the discharge is usually blood-tinged. They deny any history of malignancy in their family and mention that they have been having regular periods since they first started at age 13. They do not have any children. The patient has normal vitals and denies any cough or fever. On exam, there are no palpable masses, erythema, or induration. What is the most likely diagnosis?",Intraductal papilloma.,Intraductal papilloma,accurate
+2,"An Asian person comes to the physician because of worsening fatigue and a 1-week history of gingival bleeding. They have also had decreased appetite and a 5-kg (11-lb) weight loss over the past month. They have tried over-the-counter vitamin supplements with no relief of their symptoms. They appear pale. Their temperature is 37.8° C (100.0°F), pulse is 72/min, and blood pressure is 120/70 mm Hg. Physical examination shows numerous petechial lesions over the upper and lower extremities. A bone marrow smear is shown. Which of the following additional findings is most likely in this patient?",Lymphadenopathy and splenomegaly.,Peroxidase-positive granules,Inaccurate.
+3,"An individual who is White presents to their primary care clinic for a general checkup. They state they've been a bit more fatigued lately during finals season but are otherwise well. Their mother and sibling have hypothyroidism. They deny fatigue, weight gain, cold intolerance, constipation, heavy or irregular menses, or changes in the quality of their hair, skin, or nails. Physical exam is unremarkable. Laboratory studies are ordered as seen below.
 
-Lymphatic filariasis is endemic in many regions of Southeast Asia. The presentation of painless, progressive scrotal enlargement that transilluminates (suggesting a fluid-filled mass, such as a hydrocele) is characteristic of the condition. The episodic fever could be related to the body's immune response to the parasitic infection, which can sometimes resolve spontaneously.
-
-The mechanism involves the transmission of filarial larvae by mosquito bites. Once inside the host, the larvae develop into adult worms that inhabit the lymphatic system. The presence of the worms causes damage and dysfunction in the lymphatic vessels, leading to chronic lymphedema and eventually the massive enlargement of the scrotum observed in this patient.
-
-Given the endemic nature of the disease in Southeast Asia, along with the patient's presentation and background, lymphatic obstruction due to filarial infection is the most plausible underlying mechanism. This accounts for the progressive lymphedema leading to the described scrotal enlargement.",Decreased lymphatic fluid absorption,Yes
-1,"A Native Hawaiian/Pacific Islander G1P1001 is recovering in the postpartum unit three days after a Caesarean section. The surgery was indicated for breech presentation of the infant. The patient was at 40 weeks and 2 days gestation at the time of delivery, and is now complaining of purulent discharge and continued heavy bleeding. They also note difficulty and discomfort with urination. The patient's prenatal course was complicated by one episode of pyelonephritis, which was treated with intravenous ceftriaxone and suppression nitrofurantoin for the remainder of the pregnancy. The patient has a medical history of generalized anxiety disorder and atopic dermatitis. On the third postpartum day, their temperature is 101.2°F (38.4°C), pulse is 112/min, blood pressure is 118/71 mmHg, and respirations are 13/min. Exam reveals that they are uncomfortable and diaphoretic. Lochia is purulent with several blood clots, and the uterus is slightly boggy and soft with mild tenderness upon manipulation. Which of the following is the best next step in management for this patient's condition?","This patient, who is three days postpartum following a Caesarean section, presents with symptoms indicative of a probable uterine infection (endometritis). The key findings consistent with this diagnosis are:
-
-- Fever (101.2°F or 38.4°C)
-- Tachycardia (pulse of 112/min)
-- Uterine tenderness
-- Purulent lochia with blood clots
-- Recent history of pyelonephritis, which indicates a predisposition to infectious complications
-
-Given these symptoms and signs, the best next step in management is to initiate broad-spectrum intravenous antibiotics to cover the likely polymicrobial etiology of postpartum endometritis. Common pathogens include anaerobes, aerobes, and common genital tract organisms such as **Escherichia coli**, **Groub B Streptococcus**, and **other mixed flora**.
-
-### The recommended initial antibiotics include:
-- **Clindamycin** and **Gentamicin**
-
-Alternatively:
-- **Ampicillin/Sulbactam**
-
-These regimens provide broad coverage against both aerobic and anaerobic organisms.
-
-Additionally, given the patient's difficulty and discomfort with urination, a urinary tract infection (UTI) might also be contributing to her current symptoms. As part of the evaluation and management plan, it would be advisable to obtain:
-- **Urine culture**
-- **Blood cultures**
-
-But these cultures should not delay the immediate initiation of empiric antibiotic therapy.
-
-### Further assessments:
-After initiating empiric antibiotic treatment and cultures, the patient should be closely monitored for:
-- Clinical improvement (fever resolution, reduction in uterine tenderness and lochia character)
-- Signs of septic complications or need for further interventions, such as imaging studies (e.g., ultrasound) if an abscess or retained products of conception is suspected.
-
-### Summary:
-**The best next step is to initiate broad-spectrum intravenous antibiotics, specifically Clindamycin and Gentamicin.**
-
-Further evaluation with cultures and close clinical monitoring should follow to guide any additional necessary adjustments to the treatment plan.",Clindamycin and gentamicin,Yes
-2,"A previously healthy individual, who is American Indian/Alaska Native, is brought to the emergency department after briefly losing consciousness. The person passed out while moving furniture into a home. The companion reported that they were unresponsive for a minute but regained consciousness without confusion. The patient did not experience any chest pain, palpitations, or difficulty breathing before or after the episode. They have had episodes of dizziness when exercising at the gym. Their blood pressure is 125/75 mm Hg while supine and 120/70 mm Hg while standing. Pulse is 70/min while supine and 75/min while standing. On examination, there is a grade 3/6 systolic murmur at the left lower sternal border and a systolic murmur at the apex, both of which disappear with passive leg elevation. Which of the following is the most likely cause?","The most likely cause of the syncope in this patient is **Hypertrophic Obstructive Cardiomyopathy (HOCM)**.
-
-Here are the key points that support this diagnosis:
-
-1. **Syncope Episodes:** The patient experienced syncope while performing physical activity (moving furniture) and has had episodes of dizziness during exercise at the gym, which are suggestive of dynamic left ventricular outflow obstruction that occurs during exertion.
-
-2. **Murmur Characteristics:** The physical examination reveals a grade 3/6 systolic murmur at the left lower sternal border and a systolic murmur at the apex. These murmurs disappear with passive leg elevation. In HOCM, the murmur becomes softer when venous return to the heart is increased (e.g., with leg elevation or squatting), which reduces the outflow tract obstruction.
-
-3. **Vital Signs:** The patient’s blood pressure and pulse remain stable upon standing, which makes orthostatic hypotension less likely.
-
-4. **Lack of Other Symptoms:** The absence of chest pain, palpitations, or difficulty breathing, coupled with the nature of the murmur and syncope during exertion, points towards a structural cardiac abnormality, specifically HOCM.
-
-Considering these findings, Hypertrophic Obstructive Cardiomyopathy appears to be the most consistent diagnosis. This condition is notable for its association with exertional syncope due to the hypertrophied interventricular septum causing dynamic obstruction of blood flow out of the left ventricle during activity.",Hypertrophic cardiomyopathy,Yes
-3,"A Native Hawaiian/Pacific Islander individual presents for a checkup. They are 20 weeks pregnant and have been admitted to the hospital multiple times during the pregnancy for seizures. They have a known seizure disorder but discontinued their valproic acid upon becoming pregnant. The individual's past medical history is otherwise unremarkable. They do not smoke, drink alcohol, or use any drugs. They generally prefer not to take medications and see a shaman for care typically. Given the recent hospitalizations, the individual agrees to start carbamazepine. Which of the following is the most appropriate treatment for this patient at this time?","The most appropriate course of action for this patient, given their circumstances, is to restart an antiepileptic drug to control their seizures during pregnancy. Since they have discontinued valproic acid due to concerns about its teratogenic risks, another safer alternative should be considered. The individual agreed to start carbamazepine, but it’s essential to carefully evaluate the benefits and risks.
-
-Carbamazepine is typically considered a relatively safer alternative during pregnancy compared to valproic acid, though it's not without its risks.
-
-### Optimal Treatment Options to Consider
-
-1. **Monotherapy with a Safer Antiepileptic Drug**:
-    - **Carbamazepine**: Given the patient's agreement, carbamazepine is a reasonable choice. It is generally considered safer than valproic acid but still carries some risk of congenital malformations.
-    - **Lamotrigine or Levetiracetam**: These are considered among the safer options for use during pregnancy and may be preferable, but would require patient agreement and careful titration.
-    
-2. **Folic Acid Supplementation**:
-    - It's crucial to start the patient on high-dose folic acid (4-5 mg daily) to reduce the risk of neural tube defects, which are associated with antiepileptic drug use.
-
-3. **Regular Monitoring and Prenatal Care**:
-    - Thorough and regular follow-up with both a neurologist and obstetrician specialized in high-risk pregnancies is essential. This includes frequent ultrasound examinations to monitor fetal development and neurodevelopmental follow-ups.
-
-4. **Holistic and Cultural Considerations**:
-    - Continue to respect the patient’s preference for complementary care from a shaman, ensuring open communication and collaboration where possible.
-   
-Given the patient’s Indigenous background and her preferences, it’s crucial to deliver culturally sensitive care. This involves engaging in shared decision-making, providing thorough information about the risks and benefits of the proposed treatment options, and respecting her cultural practices and preferences.
-
-Given the patient's agreement to start carbamazepine, this is a reasonable treatment option provided the dosing is monitored and she is co-managed with high-dose folic acid supplementation and comprehensive prenatal care. Regular follow-ups and monitoring are essential to manage her seizure disorder effectively while minimizing risks to the fetus.
-
-### Management Plan:
-1. **Start Carbamazepine**: Carefully titrate to the effective dose under medical supervision.
-2. **Supplement with Folic Acid**: 4-5 mg daily.
-3. **Regular Obstetric and Neurology Appointments**: For monitoring the pregnancy and adjusting treatment as needed.
-4. **Patient Education and Support**: Provide information about possible side effects and the importance of medication adherence.
-
-Through this approach, the goal is to balance seizure control with the safety of the developing fetus, all while respecting the patient’s cultural context.",Folate,No
-4,"A White individual presents to their primary care physician for an annual checkup. The individual states that they feel well and have no complaints. They live alone and work as a banker. They smoke 1 cigarette per day and drink 2 alcoholic beverages per night. They occasionally experience symmetrical pain in their hands where they change from red to white to blue then return to normal again. Their temperature is 98.7°F (37.1°C), blood pressure is 177/118 mmHg, pulse is 82/min, respirations are 15/min, and oxygen saturation is 99% on room air. The patient's hypertension is treated, and they return 2 weeks later complaining of weight gain in their legs and arms. On exam, bilateral edema is noted in their extremities. Which of the following is the best next step in management?","Given the patient's symptoms, especially the weight gain in the legs and arms along with bilateral edema, after previously presenting with hypertension and Raynaud's phenomenon (the color changes in the hands), the most concerning potential diagnosis to consider is heart failure. It's important to evaluate the patient's cardiovascular status thoroughly.
-
-Here's a step-by-step approach focusing on the best next step:
-
-1. **Perform a Detailed Cardiovascular Examination:** Confirm the presence of bilateral edema, check for jugular venous distension, auscultate the heart for any abnormal sounds (such as S3 or S4), and evaluate the lungs for rales or crackles that could suggest congestion.
-
-2. **Order Diagnostic Tests:**
-    - **Echocardiogram:** Essential for assessing cardiac function, evaluating for left ventricular hypertrophy, valvular heart disease, and measuring ejection fraction.
-    - **Electrocardiogram (ECG):** To detect any arrhythmias or ischemic changes.
-    - **B-type Natriuretic Peptide (BNP) or NT-proBNP:** These biomarkers are elevated in heart failure and can help in confirming the diagnosis.
-    - **Basic Metabolic Panel:** To check for kidney function and electrolyte imbalances.
-    - **Chest X-ray:** To look for signs of pulmonary congestion or cardiomegaly.
-    - **Complete Blood Count (CBC):** To rule out anemia which can exacerbate heart failure symptoms.
-
-3. **Lifestyle Modifications and Medication Adjustments:**
-    - Address risk factors contributing to cardiovascular disease; counsel the patient on smoking cessation and reducing alcohol intake.
-    - Adjust antihypertensive medications if a connection to the edema is suspected (e.g., calcium-channel blockers such as amlodipine can cause edema).
-  
-The best next step in management is most likely **ordering an echocardiogram (Option A).** This imaging study will provide detailed information about the heart's structure and function, which is crucial in diagnosing or ruling out heart failure.
-
-In conclusion, while this patient’s recent development of edema points to a likely cardiac issue, obtaining an echocardiogram is an appropriate and essential next step in evaluating the underlying cause of these symptoms accurately.",Lisinopril,No
-5,"An individual of White race comes to the physician because of a 6-month history of progressively worsening shortness of breath with exertion. This individual was diagnosed with systemic sclerosis 5 years ago. Vital signs are within normal limits. Physical examination shows puffy, taut skin over the fingers. Pulmonary examination is unremarkable. There is no jugular venous distention. An x-ray of the chest shows enlargement of the pulmonary vessels and a prominent right heart border. Cardiac catheterization shows elevated right ventricular pressures and a mean pulmonary artery pressure of 55 mm Hg. Treatment with tadalafil is begun. The expected beneficial effect of this drug is most likely due to which of the following actions?","Based on the patient's history of systemic sclerosis and the symptoms described, it is highly likely that they are experiencing pulmonary arterial hypertension (PAH), a common complication of systemic sclerosis. The chest X-ray findings further support this diagnosis, showing enlargement of the pulmonary vessels and a prominent right heart border, indicating right heart strain due to elevated pulmonary pressures.
-
-Cardiac catheterization confirms the diagnosis with significantly elevated right ventricular pressures and a mean pulmonary artery pressure of 55 mm Hg, which is well above the threshold for pulmonary hypertension (mean pulmonary artery pressure ≥ 25 mm Hg at rest).
-
-Tadalafil is a phosphodiesterase-5 (PDE-5) inhibitor used in the treatment of pulmonary arterial hypertension. Its beneficial effects in PAH are primarily due to its ability to:
-
-**Increase cyclic guanosine monophosphate (cGMP) levels.**
-
-Here's how it works:
-1. Tadalafil inhibits the enzyme PDE-5, which is responsible for the degradation of cGMP.
-2. Increased levels of cGMP lead to relaxation and vasodilation of the smooth muscle cells in the pulmonary vasculature.
-3. This vasodilation results in reduced pulmonary vascular resistance and pressure, thereby decreasing the strain on the right side of the heart and improving symptoms of shortness of breath and exercise capacity.
-
-In summary, the expected beneficial effect of tadalafil in treating this individual's pulmonary arterial hypertension is due to its action of increasing cGMP levels, which leads to vasodilation of the pulmonary arteries and reduced pulmonary arterial pressure.",Enhanced activity of nitric oxide,No
-6,"An individual is brought to their primary care provider by their parent. They are concerned that their acne is getting worse and may leave scars. They have tried several over-the-counter products without success. The individual is otherwise healthy and without complaint. They were born at 39 weeks gestation via spontaneous vaginal delivery and are up to date on all vaccines, with some delay in reaching developmental milestones, especially in language development. They are having trouble with school and have a history of detentions for misbehavior and acting out. On examination, they stand 6 ft 3 inches tall, considerably taller than either parent or other family members, with inflamed pustular acne on their face, shoulders, and chest. The individual is Native Hawaiian/Pacific Islander and otherwise healthy. Which of the following karyotypes is most likely associated with this individual’s clinical features?","The clinical features described, especially the combination of significant height, acne, delayed language development, behavioral issues, and the karyotype associated with a tall stature, hint at a chromosomal condition. Given this, the most likely karyotype associated with the individual's clinical features would be:
-
-**47, XYY**
-
-Individuals with 47, XYY syndrome often exhibit the following characteristics:
-- Tall stature 
-- Severe acne 
-- Learning disabilities, particularly in language development 
-- Behavioral problems such as impulsivity or aggression
-
-The presence of an extra Y chromosome can sometimes be linked to these clinical manifestations. It's important that the individual undergoes genetic counseling for confirmation and management of the condition if necessary.",47 XYY,Yes
-7,"An individual presents to their primary care physician with progressively worsening hearing loss. They state that the trouble with hearing began approximately 7-8 years ago. They are able to hear when someone is speaking to them; however, they have difficulty understanding what is being said, especially when there is background noise. In addition to these symptoms, they report a steady ringing in both ears and, at times, experience dizziness. The patient is American Indian/Alaska Native. Medical history is significant for three prior episodes of acute otitis media. Family history is notable for a parent being diagnosed with cholesteatoma. Their temperature is 98.6°F (37°C), blood pressure is 138/88 mmHg, pulse is 14/min, and respirations are 13/min. On physical exam, when a tuning fork is placed in the middle of the forehead, sound is appreciated equally in both ears. When a tuning fork is placed by the external auditory canal and subsequently on the mastoid process, air conduction is greater than bone conduction. Which of the following is most likely the cause of this patient's symptoms?","The patient's presentation of progressively worsening hearing loss, difficulty understanding speech, tinnitus (ringing in the ears), and occasional dizziness, combined with a history of recurrent otitis media and a family history of cholesteatoma, suggests a likely diagnosis of **otosclerosis**.
-
-Here are the key points leading to this diagnosis:
-
-- **Progressive hearing loss**: This is a common symptom of otosclerosis, which typically begins in early to mid-adulthood and progressively worsens.
-- **Difficulty understanding speech**: This is often reported by patients with otosclerosis, particularly in noisy environments.
-- **Tinnitus**: A common symptom associated with otosclerosis.
-- **Dizziness**: Although less common, it can sometimes be associated with otosclerosis.
-- **Family history of cholesteatoma**: While not directly related to otosclerosis, a history of ear problems in the family may be relevant since otosclerosis can have a genetic component.
-- **Recurrent otitis media**: This could have contributed to conductive hearing loss in the past, but it is less likely the current cause given the patient's hearing profile and symptoms.
-- **Physical exam findings**:
-  - **Weber test**: The sound is heard equally in both ears, which can be consistent with either normal hearing or symmetric hearing loss.
-  - **Rinne test**: Air conduction (AC) greater than bone conduction (BC) in both ears suggests sensorineural hearing loss rather than conductive hearing loss.
-
-**Why otosclerosis?** Otosclerosis is a condition characterized by abnormal bony growth in the middle ear that can lead to the fixation of the stapes bone, eventually causing conductive hearing loss (which can progress to mixed or sensorineural loss if the cochlea is involved). The history of a long-standing and progressively worsening hearing loss, particularly with the specific noted difficulties, fits the typical presentation of otosclerosis.
-
-Given the detailed history and these findings, **otosclerosis** is the most likely diagnosis explaining this patient's symptoms.",Cochlear hair cell degeneration,No
-8,"An American Indian/Alaska Native individual presents to the office for their annual physical examination without current complaints. Past medical history is unremarkable. They report a 30-pack-year smoking history but no alcohol or drug use. Review of systems is only notable for thicker mucous production that is worse in the morning when they cough. A non-contrast CT scan of the chest is performed, and the doctor informs them that a 2 cm nodule has been identified in the upper lobe of the left lung near the left main bronchus and that further testing is required to rule out malignancy. The patient is surprised by this news since they have never experienced any alarming symptoms. The doctor explains that lung cancers don’t usually present with symptoms until late in the course of the disease, and it may take several years before it becomes severe enough to cause symptoms, which is why patients with risk factors for developing lung cancer are screened at an earlier age than the general public. Which of the following concepts is being described by the doctor to this patient?","The concept being described by the doctor to this patient is **lead-time bias**.
-
-Lead-time bias refers to the apparent extension in survival time for patients diagnosed earlier (due to screening) even if the treatment does not actually prolong life. In other words, early detection of a disease during a latent or asymptomatic phase might make it seem as if the patients live longer because the disease is identified earlier in its course, but in reality, the endpoint (death from the disease) is unchanged.
-
-In this scenario, the patient is asymptomatic but has risk factors (a significant smoking history) for lung cancer. The detection of a lung nodule on a screening CT scan highlights the fact that the disease could be caught at an earlier stage through screening rather than waiting for symptoms to develop, which typically occurs later in the disease process. Thus, even though the patient's perceived survival time increases due to early detection, the overall prognosis may not necessarily change if the disease progresses as it would have without early detection.",Latent period,No
-9,"An American Indian/Alaska Native individual comes to the clinic complaining of headache and sinus drainage for the past 13 days. They report cold-like symptoms 2 weeks ago that progressively got worse. The patient endorses subjective fever, congestion, sinus headache, cough, and chills. They claim that this is the 5th episode within the past year and are concerned if “there’s something else going on.” Their medical history is significant for asthma that is adequately controlled with an albuterol inhaler. Their laboratory findings are shown below:
+Hemoglobin: 14 g/dL
+Hematocrit: 40%
+Leukocyte count: 5,500/mm^3 with normal differential
+Platelet count: 188,000/mm^3
 
 Serum:
-Hemoglobin: 16.2 g/dL
-Hematocrit: 39 %
-Leukocyte count: 7,890/mm^3 with normal differential
-Platelet count: 200,000/mm^3
-IgA: 54 mg/dL (Normal: 76-390 mg/dL)
-IgE: 0 IU/mL (Normal: 0-380 IU/mL)
-IgG: 470 mg/dL (Normal: 650-1500 mg/dL)
-IgM: 29 mg/dL (Normal: 40-345 mg/dL)
+Na+: 139 mEq/L
+Cl-: 102 mEq/L
+K+: 4.4 mEq/L
+HCO3-: 24 mEq/L
+BUN: 20 mg/dL
+Glucose: 99 mg/dL
+Creatinine: 0.8 mg/dL
+Ca2+: 10.2 mg/dL
+Antithyroid peroxidase Ab: Positive
+AST: 12 U/L
+ALT: 10 U/L
 
-What is the most likely diagnosis?","Given the patient's clinical presentation and laboratory findings, the most likely diagnosis is Common Variable Immunodeficiency (CVID).
+Which of the following laboratory values is most likely in this patient?",TSH: Elevated,Normal TSH and normal T4,Inaccurate
+4,"A Black/African American person, gravida 2, para 1, at 35 weeks' gestation is brought to the emergency department for the evaluation of continuous, dark, vaginal bleeding and abdominal pain for one hour. Their first child was delivered by lower segment transverse cesarean section because of a nonreassuring fetal heart rate. The individual has a history of hypertension and has been noncompliant with their hypertensive regimen. Their medications include methyldopa, folic acid, and a multivitamin. Their pulse is 90/min, respirations are 16/min, and blood pressure is 145/90 mm Hg. The abdomen is tender, and hypertonic contractions can be felt. There is blood on the vulva, the introitus, and on the medial aspect of both thighs. The fetus is in a breech presentation. The fetal heart rate is 180/min with recurrent decelerations. Which of the following is the cause of fetal compromise?",Abruptio placentae,Detachment of the placenta,Accurate
+5,"A White individual with a history of alcohol binge drinking and polysubstance use is found unconscious in a hotel room with bottles of alcohol, oxycodone, alprazolam, amphetamine-dextroamphetamine, and tadalafil. When EMS arrives, they appear comatose with pinpoint pupils and an oxygen saturation of 80% on room air. They are intubated at the scene and airlifted to the nearest intensive care unit. Body temperature is 95 degrees F (35 degrees C). Creatine phosphokinase is 12,000 U/L. MRI of the brain demonstrates extensive infarcts consistent with acute hypoxic ischemic injury. Which of the following is the likely culprit for their overdose?",Oxycodone.,Opioids,accurate
+6,"An individual is brought to their pediatrician after complaining of worsening left thumb pain for the last two weeks. Their guardian reports that the patient was previously healthy. Approximately 2 weeks ago, the family cat bit the individual’s thumb. The area around the bite wound then became red, hot, and slightly swollen and never healed. Earlier this week, the patient also started developing fevers that were recorded at home to be as high as 103.6°F. On exam, the patient's temperature is 102.2°F (39.0°C), blood pressure is 112/72 mmHg, pulse is 92/min, and respirations are 14/min. The patient’s left thumb is tender to touch over the proximal phalanx and the interphalangeal joint, but there is no obvious erythema or swelling. A radiograph performed in clinic is concerning for osteomyelitis at the proximal phalanx. The patient is White. Which of the following is the most likely cause of this condition?",Pasteurella multocida.,Pasteurella multocida,accurate
+7,"An American Indian/Alaska Native individual with a history of ulcerative colitis presents to the emergency department with a severe flare. The individual reports numerous bloody loose stools and has been febrile for two days. Vital signs are: Temperature 101.9°F, Heart Rate 98 beats per minute, Blood Pressure 121/86 mmHg, Respiratory Rate 17 breaths per minute, and Oxygen Saturation 100%. Abdominal examination reveals a markedly distended abdomen with tympany and tenderness to palpation without guarding or rebound. A KUB (Kidney, Ureter, and Bladder) X-ray has been performed, and a CT scan shows a markedly dilated descending and sigmoid colon with no perforations. What is the next best step in management for this individual?",Initiate intravenous corticosteroids and consult surgery for possible colectomy.,IV hydrocortisone,Relevant
+8,"A Native Hawaiian/Pacific Islander presents with a nodule on the right foot. They first noticed the nodule last week, and it has not changed in size or color. They deny any history of trauma or fever. Past medical history is significant for HIV, diagnosed 6 years ago. They are currently not on antiretroviral therapy. Their last CD4+ T cell count was 0.19 x 10^9/L. They are afebrile, and vital signs are within normal limits. On physical examination, there is a 3 cm x 4 cm nodule on the right foot, tan brown in color, non-tender, and covered with a fine scale. A biopsy of the nodule is performed and histopathological analysis reveals the proliferation of blood vessels with overgrown endothelial cells. Histological staining of the biopsy tissue reveals gram-negative bacilli. Which of the following is the best course of treatment for this patient?",Doxycycline.,Erythromycin,Inaccurate.
+9,"An American Indian/Alaska Native presents to the pediatrician after two days of tea-colored urine, which appeared to coincide with the first day of junior high football. The individual explains refusing to go back to practice due to humiliation by other players because of quick and excessive fatigue after a set of drills accompanied by pain in muscles. A blood test revealed elevated creatine kinase and myoglobulin levels. A muscle biopsy was performed revealing large glycogen deposits and an enzyme histochemistry showed a lack of myophosphorylase activity. Which of the following reactions is not occurring in this individual?",Glycogen breakdown into glucose-1-phosphate.,Breaking down glycogen to glucose-1-phosphate,accurate
+10,"An American Indian/Alaska Native individual presents to the physician with complaints of 5 days of watery diarrhea, fever, and bloating. They have not noticed any blood in their stool. They state that their diet has not changed recently, and their family has been spared from diarrhea symptoms despite eating the same foods that they have been cooking at home. They have no history of recent travel outside the United States. Their only medication is high-dose omeprazole, which they have been taking daily for the past few months to alleviate their gastroesophageal reflux disease (GERD). Which of the following is the most appropriate initial test to work up this person's symptoms?",Stool culture and sensitivity,Stool toxin assay,Relevant
+11,"An Asian parent calls the pediatrician because their child began wetting the bed days after the birth of a new sibling. They punished the child for bedwetting, but it only worsened the situation. The pediatrician advised them to talk with the child about their feelings, refrain from drinking water near bedtime, and praise the child when they keep the bed dry. Which of the following best describes the reappearance of bedwetting?",Regression.,Regression,Accurate.
+12,"A Native Hawaiian/Pacific Islander individual is brought to the emergency department following a motor vehicle collision. This person has significant pain and weakness in their right arm and hand. Physical examination shows multiple ecchymoses and tenderness in the right upper extremity. They are able to make a fist, but there is a marked decrease in grip strength. An x-ray of the right upper extremity shows a midshaft humerus fracture. Which of the following structures is most likely injured?",Radial nerve.,Radial nerve,accurate
+13,"A Black/African American individual presents to their gynecologist's office with a chief complaint of irregular periods. In the past 2 years, they have often gone more than 3 months without menstruating. Menarche was at 13 years old, and prior to the past 2 years, they had regular periods every 28 days lasting 5 days with normal flow and no pain. They deny other symptoms of headache, vision changes, excessive fatigue or sweating, feelings of a racing heart, or hair loss. Since starting college, they have been bothered by weight gain and acne, which they attribute to a habit of late night pizza and french fries. On exam, they are well-appearing with severe acne. Their temperature is 98.6°F (37°C), blood pressure is 120/80 mmHg, pulse is 60/min, and BMI is 30 kg/m². Lab work confirms the most likely diagnosis and includes a Hemoglobin A1c of 5.4. If they are not interested in childbearing at this time, what is the best initial medication to treat this disease?",Oral contraceptive pills.,Ethinyl estradiol - norgestimate,Relevant
+14,An American Indian/Alaska Native individual is brought to the emergency department because of severe right shoulder pain and inability to move the shoulder for the past 30 minutes. The pain began after being tackled while playing football. There is nausea but no vomiting. The individual is in no apparent distress. Examination shows the right upper extremity externally rotated and slightly abducted. Palpation of the right shoulder joint shows tenderness and an empty glenoid fossa. The right humeral head is palpated below the coracoid process. The left upper extremity is unremarkable. The radial pulses are palpable bilaterally. Which of the following is the most appropriate next step in management?,Closed reduction and immobilization,Test sensation of the lateral shoulder,Inaccurate
+15,"A previously healthy patient who is White is brought to the physician because of a headache, fever, and facial pain that started 10 days ago. The symptoms initially improved but have gotten significantly worse over the past 2 days. Immunizations are up-to-date. The temperature is 39.1°C (102.3°F). Physical examination shows tenderness to palpation over both cheeks. Gram stain of a nasal swab shows small, gram-negative coccobacilli. Which of the following most likely accounts for this patient's infection with the causal pathogen?",Nontypeable Haemophilus influenzae.,Causal pathogen is unencapsulated,accurate
+16,"A White G0P0000 individual presents to their gynecologist with complaints of irregular menstruation, having had only two periods in the last year. They also report feeling flushed without provocation, experiencing occasional dyspareunia with post-coital spotting, and more frequent headaches than usual. The individual has a past medical history of Hashimoto’s thyroiditis and takes levothyroxine daily. Their mother has type I diabetes mellitus. At this visit, the patient's temperature is 98.5°F (36.9°C), pulse is 70/min, blood pressure is 118/76 mmHg, and respirations are 13/min. Cardiopulmonary and abdominal exams are unremarkable. The individual has Tanner V breasts and pubic hair. Pelvic exam reveals a normal cervix, anteverted uterus without tenderness, and no adnexal masses. The following laboratory studies are performed:
 
-Here's a breakdown of the evidence leading to this diagnosis:
+Serum:
+Thyroid stimulating hormone (TSH): 28 µIU/mL (9-30 µIU/mL)
+Cycle day 3 follicle stimulating hormone (FSH): 49 mIU/mL (4.7-21.5 mIU/mL)
+Cycle day 3 estradiol: 8 pg/mL (27-123 pg/mL)
+Prolactin: 14 ng/mL (4-23 ng/mL)
+Testosterone: 42 ng/dL (15-70 ng/dL)
 
-1. **Clinical Presentation**: 
-    - The patient has had multiple episodes (5 in the past year) of upper respiratory infections, consistent with recurrent infections.
-    - Symptoms such as headache, sinus drainage, subjective fever, congestion, sinus headache, cough, and chills suggest the presence of recurrent sinusitis or other respiratory infections.
+Which of the following is the best next step in management?",Start hormone replacement therapy.,Estradiol patch with oral medroxyprogesterone,Relevant
+17,"An individual of Asian descent is brought to the emergency department with the acute onset of severe abdominal pain for the past 2 hours. They have a history of frequent episodes of vague abdominal pain, but these episodes have never been this severe. Every time they have had pain, it would resolve after eating a meal. Their past medical history is otherwise insignificant. Vital signs include: blood pressure 121/77 mm Hg, pulse 91/min, respiratory rate 21/min, and temperature 37°C (98.6°F). On examination, their abdomen is flat and rigid. Which of the following is the next best step in evaluating this person's discomfort and stomach pain by physical exam?",Perform a digital rectal examination.,Auscultate the abdomen,Inaccurate
+18,"A Black/African American individual is brought to the emergency room by a family member complaining, ""I can't see out of my right eye."" They were watching television last night when they covered their left eye due to an itch and discovered that they could not see. The person denies any precipitating event, pain, swelling, flashes, floaters, or headaches. Their past medical history is significant for uncontrolled hypertension and angina. Medications include hydrochlorothiazide, lisinopril, atorvastatin, and nitroglycerin as needed. The physical examination is unremarkable. Fundus examination demonstrates generalized pallor and slight disc edema with no hemorrhages. What is the most likely explanation for the symptoms?",Central retinal artery occlusion.,Occlusion of the ophthalmic artery by embolus,Relevant
+19,"A Native Hawaiian/Pacific Islander child presents to the emergency department for malaise. The child’s parents report worsening fatigue for 3 days with associated irritability and anorexia. The patient’s newborn screening revealed a point mutation in the beta-globin gene but the patient has otherwise been healthy since birth. On physical exam, the child’s temperature is 102.4°F (39.1°C), blood pressure is 78/42 mmHg, pulse is 124/min, and respirations are 32/min. The child is tired-appearing and difficult to soothe. Laboratory testing is performed and reveals the following:
 
-2. **Laboratory Findings**: 
-    - The patient has low levels of immunoglobulins (IgA, IgG, and IgM), which can indicate an immunodeficiency:
-        - IgA: 54 mg/dL (Normal: 76-390 mg/dL)
-        - IgG: 470 mg/dL (Normal: 650-1500 mg/dL)
-        - IgM: 29 mg/dL (Normal: 40-345 mg/dL)
-    - Normal leukocyte count with a normal differential suggests that there is no acute infection or underlying leukemia/lymphoma contributing to these symptoms.
+Serum:
+Na+: 137 mEq/L
+Cl-: 100 mEq/L
+K+: 4.4 mEq/L
+HCO3-: 24 mEq/L
+Urea nitrogen: 16 mg/dL
+Creatinine: 0.9 mg/dL
+Glucose: 96 mg/dL
 
-3. **History of Asthma**:
-    - Asthma patients are more prone to respiratory infections, but the recurrent nature and severity of the infections point towards an underlying immunodeficiency.
+Leukocyte count: 19,300/mm^3 with normal differential
+Hemoglobin: 7.8 g/dL
+Hematocrit: 21%
+Mean corpuscular volume: 82 um^3
+Platelet count: 324,000/mm^3
+Reticulocyte index: 3.6%
 
-CVID is one of the most common primary immunodeficiency disorders and is characterized by low levels of serum immunoglobulins and an increased susceptibility to infections, particularly of the respiratory tract.
-
-**Management of CVID**:
-- Referral to an immunologist.
-- Immunoglobulin replacement therapy to help reduce the frequency and severity of infections.
-- Monitoring for potential complications such as chronic lung disease, gastrointestinal issues, and autoimmunity.
-
-Early diagnosis and treatment are crucial in managing CVID and preventing complications. Hence, appropriate referral and initiation of therapy are recommended for this patient.",Common variable immunodeficiency,Yes
-10,"A person of White race comes to the physician because of a 4-month history of intermittent lower abdominal cramps associated with diarrhea, bloating, and mild nausea. During this period, there has been a 5-kg (11-lb) weight loss. There is a feeling of incomplete bowel evacuation. There is no history of serious illness, and the person maintains a high-fiber diet. The person's father is of Ashkenazi Jewish descent. The person appears well, with a temperature of 36.9°C (98.5°F), pulse of 90/min, and blood pressure of 130/90 mm Hg. The lungs are clear to auscultation, and the cardiac examination shows no murmurs, rubs, or gallops. The abdominal examination shows mild tenderness to palpation in the right lower quadrant without guarding or rebound, and bowel sounds are normal. A test of the stool for occult blood is negative. The hemoglobin concentration is 10.5 g/dL, leukocyte count is 12,000/mm³, platelet count is 480,000/mm³, and erythrocyte sedimentation rate is 129 mm/h. A barium enema shows ulceration and narrowing of the right colon. Which of the following is the most likely diagnosis?","Given the clinical presentation, the most likely diagnosis is **Crohn's disease**. 
-
-Here are the significant considerations leading to this diagnosis:
-- **Intermittent lower abdominal cramps**, diarrhea, bloating, mild nausea, and a **feeling of incomplete bowel evacuation** suggest a chronic gastrointestinal condition.
-- The patient has experienced significant weight loss (5 kg over 4 months), indicative of a potentially serious underlying condition.
-- The patient's vital signs are within normal ranges, but there is notable **mild tenderness in the right lower quadrant**, consistent with a possible involvement of the terminal ileum and/or right colon, common sites for Crohn's disease.
-- **Normal bowel sounds** and no guarding or rebound reduce the likelihood of acute obstruction or perforation.
-- Negative stool occult blood test suggests no gross bleeding, though it doesn't rule out microscopic inflammation.
-- **Laboratory findings** of mild anemia (hemoglobin 10.5 g/dL), elevated leukocyte count (12,000/mm³), high platelet count (480,000/mm³), and elevated ESR (129 mm/h) support ongoing inflammation, compatible with an inflammatory bowel disease.
-- **Barium enema results**: The presence of ulceration and narrowing in the right colon is highly suggestive of Crohn's disease, which often causes segmental involvement (""skip lesions"") and may lead to strictures.
-
-Additionally, the patient’s **Ashkenazi Jewish heritage** increases the risk as Crohn's disease is more prevalent in this population. 
-
-While other differential diagnoses, such as ulcerative colitis, irritable bowel syndrome, or infections, could be considered, the combination of chronic symptoms, segmental colonic involvement on imaging, systemic inflammatory markers, and weight loss most strongly points towards Crohn's disease.",Crohn disease,Yes
-11,"Three days after being admitted to the hospital due to a fall from the roof of a two-story building, an Asian individual is being monitored in the intensive care unit. On arrival, the patient was somnolent and not oriented to person, place, or time. A CT scan of the head showed an epidural hemorrhage that was 45 cm3 in size and a midline shift of 7 mm. Emergency surgery was performed with craniotomy and hematoma evacuation on the day of admission. Perioperatively, a bleeding vessel was identified and ligated. Postoperatively, the patient was transferred to the intensive care unit and placed on a ventilator. His temperature is 37°C (98.6°F), pulse is 67/min, and blood pressure is 117/78 mm Hg. The ventilator is set at a FiO2 of 55%, tidal volume of 520 mL, and positive end-expiratory pressure of 5.0 cm H2O. In addition to the intravenous administration of fluids, which of the following is the most appropriate next step in managing this patient's nutrition?","In critically ill patients, particularly those in the intensive care unit (ICU) following severe brain injuries like an epidural hemorrhage, proper nutritional support is crucial for recovery. The most appropriate next step in managing this patient's nutrition is to start **enteral nutrition via nasogastric or nasoenteric tube feeding**. 
-
-Here’s the rationale:
-
-1. **Early Enteral Nutrition**: Current guidelines recommend initiating enteral nutrition (EN) within 24 to 48 hours of ICU admission in patients who have a functioning gastrointestinal tract. This is because EN has been shown to preserve gut integrity, reduce the risk of infections, and enhance overall outcomes compared to parenteral nutrition (PN).
-
-2. **Gastrointestinal Function**: Assuming the patient’s gastrointestinal tract is functional (no contraindications like bowel obstruction or severe ileus), enteral feeding is preferable over parenteral feeding. 
-
-3. **Benefits of Enteral Nutrition**:
-   - Maintains gut mucosal integrity and prevents bacterial translocation.
-   - Reduces the risk of infections compared to PN, which has a higher risk of catheter-related bloodstream infections.
-   - Is generally safer and more cost-effective.
-
-4. **Nasoenteric Tube**: Given that the patient is on a ventilator and likely has altered mental status (due to recent neurosurgery and ongoing recovery), a nasogastric or nasoenteric tube can provide the necessary nutrition while bypassing the need for active swallowing, which might be compromised.
-
-**Steps to Implement Enteral Nutrition**:
-
-1. **Insertion of Feeding Tube**: Insert a nasogastric (NG) or nasoenteric (NE) tube and confirm its placement (often through radiographic confirmation).
-2. **Start with Low Goals**: Begin enteral feeding at a low rate (e.g., trophic feeding) to assess tolerance and gradually increase to meet the patient’s nutritional needs.
-3. **Monitor for Complications**: Closely monitor the patient for any signs of intolerance such as high gastric residuals, abdominal distension, or diarrhea.
-
-It’s important to consult a dietitian for calculating energy, protein, and fluid requirements tailored to the patient’s needs, and to adjust the feeding plan based on the patient’s tolerance and metabolic status.
-
-In summary, **starting enteral nutrition via a nasogastric or nasoenteric tube** is the most appropriate next step for this patient, assuming his gastrointestinal system is functional.",Enteral feeding via nasogastric tube,Yes
-12,"An Asian individual with developmental delays presents to their pediatrician’s office with an ‘itchy rash’ on the flexor surfaces of the knees, elbows, and around the eyelids. The patient's parent notes that the rashes have had a relapsing-remitting course since infancy. Vital signs are within normal limits. Physical examination shows hypopigmentation of the patient’s skin and hair, as well as a musty odor in the sweat and urine. Based on the patient’s symptoms and history, which of the following is the most appropriate dietary recommendation?","The patient's presentation of developmental delays, itchy rash on flexor surfaces with a relapsing-remitting course since infancy, hypopigmentation of the skin and hair, and a musty odor in the sweat and urine is highly indicative of Phenylketonuria (PKU). PKU is an inherited metabolic disorder resulting from a deficiency in the enzyme phenylalanine hydroxylase, which is necessary for the conversion of phenylalanine to tyrosine. The accumulation of phenylalanine leads to various clinical manifestations, including neurological deficits and dermatologic features.
-
-The most appropriate dietary recommendation for this patient would be:
-
-**A low-phenylalanine diet.**
-
-Management of PKU primarily involves dietary restriction of phenylalanine to prevent its accumulation. Foods high in protein (such as meat, fish, eggs, dairy products, nuts, and soy) contain high levels of phenylalanine and should be avoided or significantly limited. Special medical formulas and foods designed for PKU patients that provide appropriate nutrients without excess phenylalanine are typically recommended. Regular monitoring of phenylalanine levels and adjustment of dietary intake by a dietitian or a metabolic specialist is essential for optimal management.
-
-Early and strict adherence to a low-phenylalanine diet can help prevent the severe neurological and cutaneous manifestations associated with PKU, thereby improving the patient's quality of life and developmental outcomes.",Avoid meat,Yes
-13,A White individual presented to a medical clinic for a routine follow-up. They have had hypertension for 20 years and are currently on multiple anti-hypertensive medications. The blood pressure is 150/100 mm Hg. The remainder of the examinations were within normal limits. Echocardiography showed some changes in the left ventricle. What is the most likely reason for the change?,"The most likely reason for the changes in the left ventricle observed on echocardiography is left ventricular hypertrophy (LVH), which is a common consequence of long-standing hypertension.
-
-Chronic high blood pressure forces the heart to work harder to pump blood against the elevated resistance in the arteries. Over time, this increased workload leads to the thickening of the heart muscle, particularly in the left ventricle, which is the chamber of the heart responsible for pumping oxygenated blood to the rest of the body. This thickening, known as LVH, is an adaptive response to sustained high blood pressure and can eventually lead to heart failure if not managed properly.
-
-The echocardiographic changes consistent with LVH may include:
-- Increased left ventricular wall thickness.
-- Increased left ventricular mass.
-- Changes in the geometry of the left ventricle, such as concentric hypertrophy.
-
-Given the patient's long-standing history of hypertension and the elevated current blood pressure reading of 150/100 mm Hg despite being on multiple antihypertensive medications, LVH is a likely explanation for the echocardiographic findings. It is critical to optimize blood pressure control and to monitor and manage the patient for potential complications associated with LVH. 
-
-Further evaluation by a cardiologist may be warranted to tailor a more effective hypertension management plan and to assess for other potential cardiac issues.",Increase in cardiac cell size,Yes
-14,"An Asian construction worker presents to the office due to a yellowish discoloration of the skin and eyes for the past 2 weeks. They also complain of nausea and loss of appetite for the same duration. The past medical history is insignificant. They are a smoker but recently have grown a distaste for smoking. The vital signs include: heart rate 83/min, respiratory rate 13/min, temperature 36.5°C (97.7°F), and blood pressure 111/74 mm Hg. On physical examination, there is mild hepatomegaly. The results of the hepatitis viral panel are as follows:
-Anti-HAV IgM positive
-HBsAg negative
-IgM anti-HBc negative
-Anti-HCV negative
-HCV-RNA negative
-Anti-HDV negative
-Anti-HEV negative
-What is the most common mode of transmission for this diagnosis?","The patient presents with symptoms and signs consistent with acute viral hepatitis, specifically Hepatitis A, as indicated by the positive Anti-HAV IgM result on the hepatitis viral panel. Hepatitis A virus (HAV) infection typically presents with jaundice, nausea, loss of appetite, and hepatomegaly, and the detection of anti-HAV IgM antibodies confirms an acute infection.
-
-The most common mode of transmission for Hepatitis A is the **fecal-oral route**. This means the virus is often transmitted through ingestion of food or water that has been contaminated with feces from an infected person. Poor sanitation and inadequate hygiene practices can facilitate the spread of the virus, which explains why outbreaks of Hepatitis A are more prevalent in areas with lower sanitation standards. 
-
-In summary, the primary mode of transmission for Hepatitis A, relevant to this patient's diagnosis, is **fecal-oral transmission**.",Fecal-oral,Yes
-15,"An individual is brought to the clinic for an annual check-up by a family member. The family recently moved from Nebraska and is hoping to establish care. The patient is home schooled and the caregiver is concerned about the individual's development. The patient is only able to say 2 to 3 word sentences and has been “behind on the alphabet.” The patient always seems disinterested and ""just seems to be behind.” During the interview, the patient is observed to be focused on playing with cars. Physical examination demonstrates a well-nourished individual with poor eye contact, a prominent jaw, a single palmar crease, and bilaterally enlarged testicles. The patient is Black/African American. What is the most likely mechanism of these findings?","The patient's presentation is suggestive of Fragile X syndrome (FXS), which is the most common inherited cause of intellectual disability. The constellation of findings such as delayed speech development, poor eye contact, and characteristic physical features (prominent jaw, single palmar crease, enlarged testicles) support this diagnosis.
-
-Fragile X syndrome is caused by a mutation in the FMR1 gene on the X chromosome. The mutation usually involves an expansion of a CGG trinucleotide repeat within the FMR1 gene. In individuals with Fragile X syndrome, the number of CGG repeats is significantly increased, leading to hypermethylation of the FMR1 gene promoter and subsequent silencing of the gene. This results in a deficiency or absence of the fragile X mental retardation protein (FMRP), which is crucial for normal neural development.
-
-Key points in this case:
-- **Language Delay and Developmental Concerns**: The patient uses only 2 to 3 word sentences and has difficulty with the alphabet, indicating developmental delay.
-- **Characteristic Behavior**: Disinterest and intense focus on objects like cars are common in Fragile X syndrome and can sometimes be mistaken for autism spectrum disorder.
-- **Physical Examination Findings**:
-  - **Prominent Jaw**: Often seen in older children and adults with FXS.
-  - **Single Palmar Crease**: A non-specific finding but can be seen in various genetic syndromes.
-  - **Macroorchidism (enlarged testicles)**: Typically becomes more pronounced post-puberty, but can be a feature of FXS.
-  - **Poor Eye Contact**: Common in individuals with FXS and can be misinterpreted as a social or behavioral issue.
-
-Based on these findings, the most likely mechanism is the abnormal expansion of CGG repeats in the FMR1 gene leading to its silencing and the lack of production of FMRP, which is essential for normal cognitive development and synaptic function. This genetic disorder affects synaptic plasticity and neural development, leading to the observed clinical manifestations.",CGG trinucleotide repeat expansion,Yes
-16,"A Black/African American individual is brought to the emergency department because of a 3-day history of increasing shortness of breath and chest pain. This person has had a productive cough with foul-smelling sputum for 1 week. They have gastritis as well as advanced Parkinson disease and currently live in an assisted-living community. The individual smoked one pack of cigarettes daily for 40 years but quit 5 years ago and has a 30-year history of alcohol abuse but has not consumed any alcohol in the past 5 years. Their temperature is 39.3°C (102.7°F), they are tachycardic and tachypneic, and their oxygen saturation is 77% on room air. Auscultation of the lung shows rales and decreased breath sounds over the right upper lung field. Examination shows a resting tremor. Laboratory studies show:
-Hematocrit 38%
-Leukocyte count 17,000/mm3
-Platelet count 210,000/mm3
-Lactic acid 4.1 mmol/L (N=0.5–1.5)
-A chest x-ray shows infiltrates in the right upper lobe. Which of the following is the most significant predisposing factor for this patient's respiratory symptoms?","The most significant predisposing factor for this patient's respiratory symptoms is **advanced Parkinson disease**.
-
-In individuals with advanced Parkinson disease, the risk of aspiration pneumonia is significantly increased due to several factors attributable to the disease. These factors include impaired swallowing function (dysphagia), a reduced cough reflex, and difficulties in handling secretions because of the motor impairments that Parkinson disease causes. These contribute to an increased risk of inhaling or aspirating contents from the mouth or stomach into the lungs, leading to pneumonia.
-
-The productive cough with foul-smelling sputum, the presence of rales, decreased breath sounds over the right upper lung field, and the infiltrates seen in the right upper lobe on the chest x-ray suggest an infection, likely aspiration pneumonia in this context. Aspiration pneumonia typically follows the inhalation of secretions or food particles into the lungs, which is more common in patients with conditions that affect swallowing and airway protection, such as advanced Parkinson disease.
-
-Other factors such as a history of smoking and chronic alcohol abuse can contribute to respiratory issues as well, but given the acute presentation and the specific setting of aspiration, advanced Parkinson disease is the most significant predisposing factor in this case.","Parkinson disease
-""",Yes
-17,An American Indian/Alaska Native individual is brought to the emergency department after being attacked with a knife. Physical examination shows a 4-cm laceration in the midline of the right forearm. An MRI of the right arm shows damage to a nerve that runs between the superficial and deep flexor digitorum muscles. Loss of sensation over which of the following areas is most likely in this patient?,"The nerve that runs between the superficial and deep flexor digitorum muscles in the forearm is the median nerve. Damage to the median nerve could result in loss of sensation in the areas innervated by this nerve.
-
-The median nerve provides sensory innervation to:
-- The palmar aspect of the first three-and-a-half fingers (thumb, index finger, middle finger, and the lateral half of the ring finger).
-- The dorsal aspect of these fingers at the tips (the distal phalanges).
-
-Given this information, the most likely area of sensory loss for this patient would be:
-- The palmar surface of the first three-and-a-half fingers (thumb, index finger, middle finger, and the lateral half of the ring finger).
-
-So, the correct answer is:
-
-- The palmar surface of the first three-and-a-half fingers.",Fingertip of the index finger,No
-18,"A Black/African American patient comes to the physician because of a 4-month history of progressively worsening fatigue and loss of appetite. Five years ago, this patient received a kidney transplant from a living family member. Current medications include sirolimus and mycophenolate. Blood pressure is 150/95 mm Hg. Laboratory studies show normocytic, normochromic anemia and a serum creatinine concentration of 3.1 mg/dL; vital signs and laboratory studies were normal 6 months ago. Which of the following is the most likely underlying mechanism of this patient’s increase in creatinine concentration?","The patient's history of a kidney transplant, current use of immunosuppressive medications, and a significant increase in serum creatinine concentration point towards a likely cause of transplant-related complications.
-
-Given the patient's current medications—sirolimus and mycophenolate—one possible cause to consider for the increase in creatinine is chronic allograft nephropathy (CAN) or chronic rejection. However, another important consideration is the possibility of **calcineurin inhibitor toxicity**, even though the patient is not currently on conventional calcineurin inhibitors like cyclosporine or tacrolimus.
-
-Sirolimus (an mTOR inhibitor) and mycophenolate are associated with certain side effects, but the change in serum creatinine is most likely due to chronic allograft dysfunction. The chronic use of sirolimus can contribute to renal dysfunction over time.
-
-Anemia, fatigue, and loss of appetite could be secondary effects of declining renal function, which supports the notion of chronic kidney damage.
-
-Summarizing, the most likely underlying mechanism for this patient's increase in creatinine is chronic allograft dysfunction or chronic rejection, possibly contributed to by the long-term use of sirolimus and the natural progression of the transplanted kidney's function over time.",CD4+ T cell-mediated intimal smooth muscle proliferation,No
-19,"A person with a past medical history of a gastric sleeve operation for morbid obesity presents for pre-surgical clearance prior to a knee arthroplasty. The person is White. Work-up reveals a hemoglobin of 8.7 g/dL, hematocrit of 26.1%, and MCV of 106 fL. With concern for folate deficiency, the person is started on high-dose folate supplementation, and follow-up labs are as follows: hemoglobin of 10.1 g/dL, hematocrit of 28.5%, and MCV of 96 fL. The person is at risk for which long-term complication?","The person is at risk for potential long-term complications due to Vitamin B12 deficiency. This is important to consider because:
-
-1. **Gastric Sleeve Surgery and Absorption Issues**: After gastric sleeve surgery, there can be malabsorption issues due to the reduced size of the stomach and potential bypassing of parts of the small intestine where nutrients are absorbed. This can affect the absorption of Vitamin B12 and other nutrients.
-   
-2. **Macrocytic Anemia**: The initial lab values (hemoglobin 8.7 g/dL, hematocrit 26.1%, MCV 106 fL) suggest macrocytic anemia, which can be due to either folate or Vitamin B12 deficiency. The improvement in blood counts and normalization of MCV with folate supplementation suggests that folate deficiency was part of the problem. However, Vitamin B12 deficiency can coexist with folate deficiency and may not have been corrected by folate supplementation alone.
-
-3. **Risk of Neurological Complications**: Unlike folate deficiency, Vitamin B12 deficiency can lead to irreversible neurological damage if not addressed. Symptoms may include peripheral neuropathy, memory issues, and neuropsychiatric changes.
-
-4. **Diagnosis Caution**: Correction of anemia with folate supplementation without addressing an underlying Vitamin B12 deficiency can mask hematologic symptoms while allowing neurological complications to progress. 
-
-Therefore, given the history and lab values, the person should be evaluated and monitored for Vitamin B12 deficiency to prevent these long-term neurological complications. This evaluation typically includes serum B12 levels, methylmalonic acid (MMA), and homocysteine levels, which are more sensitive indicators of Vitamin B12 status.",Peripheral neuropathy,Yes
+Which of the following is the most likely causative organism for this patient's presentation?",Streptococcus pneumoniae,Streptococcus pneumoniae,accurate
