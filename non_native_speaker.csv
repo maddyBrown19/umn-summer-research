@@ -1,0 +1,196 @@
+Index,Question,Response,Answer,Accuracy
+0,"""Blood cultures... taken from patient... what... findings most likely?""","1. Bacterial growth: The most likely finding from blood cultures taken from a patient would be the presence of bacterial growth, indicating a bacterial infection in the bloodstream. 
+2. Fungal growth: Another plausible finding from blood cultures could be the presence of fungal growth, indicating a fungal infection in the bloodstream. 
+3. Sterile culture: Less commonly, a sterile culture may be obtained from the blood cultures, indicating the absence of any microorganisms in the bloodstream at the time of collection.","Gram-positive, catalase-positive, coagulase-positive cocci in clusters",Inaccurate.
+1,Which... of... the... following... reactions... is... not... taking... place... in... this... individual?,"I'm sorry, but your question is difficult to interpret because of the formatting. Could you please provide the medical question in a more clear and concise manner?",Methylmalonyl-CoA --> Succinyl-CoA,Inaccurate.
+2,Do... I... need... any... more... tests... to... check... the... lung... nodule?,"1. Yes, a follow-up imaging test such as a CT scan may be necessary to monitor the growth and changes in the lung nodule over time.
+2. Biopsy of the lung nodule may be recommended to determine if it is cancerous or non-cancerous.
+3. PET scan may be considered to evaluate the metabolic activity of the lung nodule, especially if there are concerns about cancer.",PET scan,Relevant
+3,Do you... have... burning...when you... pee?... Also... feel... like you... need... to go... all the time?... And... ouch... down there... when you go?... Any... smell... or extra... stuff down there?... No fever... or back... pain?... What now... for... this... problem?,"1. Urinary tract infection (UTI) - UTIs can cause a burning sensation while urinating, frequent urination, pain in the lower abdomen or pelvis, and sometimes an unusual odor in the urine. It is common for UTIs to not present with a fever or back pain.
+
+2. Sexually transmitted infection (STI) - Certain STIs such as chlamydia or gonorrhea can cause symptoms like burning during urination, urgency to urinate, and pain in the genital area. These infections may not always cause a fever or back pain.
+
+3. Interstitial cystitis - This condition can cause symptoms similar to a UTI, such as pelvic pain, frequent urination, and a sense of urgency to urinate. It does not typically present with fever or back pain.",Surgery,Inaccurate.
+4,Which...organism...is...the...most...likely...cause?,"1. Bacteria
+2. Virus
+3. Fungus",Clostridium perfringens,Accurate.
+5,Do... you... plan... to... continue... your... current... exercise... routine... during... pregnancy?,"1. Yes, continuing your current exercise routine during pregnancy can have numerous benefits for both you and your baby. It can help improve your energy levels, mood, and sleep quality, and may even help with labor and delivery.
+
+2. However, it's important to consult with your healthcare provider before continuing or starting any exercise routine during pregnancy. They can provide personalized recommendations based on your health and pregnancy status.
+
+3. Some modifications may be necessary to your current exercise routine to ensure the safety of you and your baby, so it's important to listen to your body, avoid high-impact activities, and stay hydrated while exercising during pregnancy.","Stop playing soccer, continue strength training, and do not buy a ski pass",Inaccurate.
+6,Which part of the brain with reduced activity is associated with Alzheimer's disease?,"*1* The hippocampus, as it is one of the first regions of the brain to be affected by Alzheimer's disease, leading to memory impairment.
+
+*2* The temporal lobe, which is responsible for processing sensory input and is also commonly affected in Alzheimer's disease.
+
+*3* The parietal lobe, which is involved in spatial awareness and sensory information processing, and is commonly affected by Alzheimer's disease.",Nucleus basalis,Relevant
+7,What... is... the.. most... likely... cause... of... these...findings?,"1. The most likely cause of these findings is coronary artery disease (CAD).
+2. The second most likely cause could be myocardial infarction (heart attack).
+3. The third most likely cause could be angina pectoris.",Cystathionine synthase deficiency,Inaccurate
+8,A research group... *breathes in* ...wants to assess... *pauses* ...the safety and... *pauses* ...toxicity profile of... *thinks for a second* ...a new drug. A clinical trial is conducted... *pauses* ...with... *counts on fingers* ...20 volunteers... *making sure it's right* ...to estimate the maximum... *thinks of the right words* ...tolerated dose and... *pauses again* ...monitor the apparent... *struggles with the word* ...toxicity of the drug. The... *thinks hard* ...study design is best... *tries to explain* ...described as which... *pauses* ...of the following... *expression of unsureness* ...phases of a clinical trial? *hopeful look*,"1. Phase I clinical trial
+2. Phase II clinical trial
+3. Phase III clinical trial",Phase I,accurate
+9,"""After...your...emergency...surgery...how...are...you...feeling?...Any...pain...or...problems?""","1. The patient may be experiencing pain or discomfort following emergency surgery.
+2. The patient may have concerns or questions about their recovery process.
+3. The patient may require guidance on post-operative care or medications.","""Thank you, but I cannot accept the tickets you offered. Accepting such a generous gift is against our policy. However, I will gladly accept your cake and distribute it among the staff.""",Inaccurate.
+10,"Why- boy cannot concentrate, incomplete schoolwork, talk too much, fighting kids, trouble hopping, using utensils, following directions? Head small, wide eyes, short palpebral fissures, thin upper lip, sunken nasal bridge, small jaw. Murmur heard along left sternal border. Likely cause of these symptoms?","*1* The most likely cause of these symptoms is Fetal Alcohol Syndrome (FAS). 
+*2* Another possible cause could be Attention Deficit Hyperactivity Disorder (ADHD). 
+*3* Additionally, a genetic disorder like Down syndrome could also present with some of these symptoms.",Prenatal alcohol exposure,Accurate
+11,"Can you tell me about the case of a 70-year-old female who comes to see you and complains of feeling dizzy suddenly, then feels better in certain positions, and mentions a false sense of movement and spinning, along with episodes of vertigo when going from sitting to lying down, as well as horizontal nystagmus?","*1* The most likely diagnosis in this case is Benign Paroxysmal Positional Vertigo (BPPV), which is a common cause of vertigo in older adults and is characterized by sudden episodes of vertigo triggered by specific head movements. The horizontal nystagmus (involuntary eye movements) is a key finding in BPPV.
+
+*2* Another plausible explanation could be Meniere's disease, a condition of the inner ear that causes episodes of vertigo, hearing loss, and ringing in the ears. However, Meniere's disease typically presents with more constant symptoms rather than brief, positional vertigo episodes.
+
+*3* Vestibular migraine is also a possibility, given the sudden onset of vertigo and false sense of movement, but this condition is usually associated with a history of migraine headaches, which is not mentioned in the case description.",Benign Paroxysmal Positional Vertigo (BPPV),Relevant
+12,"""Patient...with...colon cancer...emergency department...shortness...breath...fever...chills...cough...blood...history...emphysema...no...abdominal pain...headache...chemotherapy...5-fluorouracil...leucovorin...oxaliplatin...temperature...38.3°C...pulse...112/min...blood pressure...100/70 mm Hg...oxygen saturation...83%...inspiratory crackles...right lung...dry mucous membranes...normal cardiac exam...Lab results...Hemoglobin 9.3 mg/dL...Leukocyte count...700/mm3...Neutrophils 68%...Lymphocytes 25%...Eosinophils 4%...Monocytes 3%...Platelets...104,000/mm3...Glucose 75 mg/dL...Urea nitrogen 41 mg/dL...Creatinine 2.1 mg/dL...Galactomannan antigen Positive...What...most appropriate...initial pharmacotherapy?"".","*1* The most appropriate initial pharmacotherapy for this patient would be IV antifungal therapy with caspofungin or liposomal amphotericin B, as the positive galactomannan antigen suggests invasive pulmonary aspergillosis, which is common in immunocompromised patients with hematologic malignancies.
+
+*2* In addition to antifungal therapy, broad-spectrum antibiotics such as piperacillin-tazobactam or meropenem should be initiated to cover for other potential bacterial infections, as the patient is immunocompromised and presents with signs of sepsis (fever, tachycardia, hypotension, leukopenia).
+
+*3* Supplemental oxygen therapy should be started immediately to improve the patient's oxygen saturation and respiratory distress. Depending on the severity of respiratory compromise, consider non-invasive positive pressure ventilation or intubation if the patient's condition deteriorates.",Voriconazole,Accurate.
+13,"I  hear  you  are  having  chest  pain  that  squeezes,  and  this  pain  moved  towards  your  jaw and shoulder. Can you tell me more about your symptoms and how long these pains last, yesterday,  while  furniture, did you  feel  this  for  20  minutes?","*1* Angina - The description of chest pain that squeezes and radiates to the jaw and shoulder, and is triggered by exertion, is highly suggestive of angina. The fact that the pain lasted for 20 minutes while moving furniture is also a significant indicator.
+
+*2* Myocardial Infarction (Heart Attack) - This condition presents with chest pain that may radiate to the jaw and shoulder, similar to angina. Given the severity and duration of the pain, it could also be a heart attack, so it is essential to consider this as a possibility.
+
+*3* GERD (Gastroesophageal Reflux Disease) - While less likely, GERD can also cause chest pain that may radiate to other areas such as the jaw. However, the duration and trigger of the pain described make angina or a heart attack more probable in this case.",Myocardial ischemia,Accurate
+14,"Can you please tell me, considering the back pain, range of motion limitations, tenderness over the vertebrae, and history of trauma from the motor vehicle accident, what is the most likely diagnosis for this patient?","1. Vertebral compression fracture: The symptoms described (back pain, range of motion limitations, tenderness over the vertebrae, history of trauma) are indicative of a vertebral compression fracture, which commonly occurs due to trauma such as a motor vehicle accident.
+
+2. Herniated disc: While a herniated disc can cause back pain and range of motion limitations, it is less likely in the context of tenderness over the vertebrae and history of trauma. However, it should still be considered in the differential diagnosis.
+
+3. Spinal cord injury: This is less likely than the above two options, as spinal cord injuries typically present with more neurological deficits such as weakness, numbness, or tingling in addition to back pain.",Vertebral fracture,Accurate
+15,"Why... would... a: stool
+                    sample... be... helpful... in... this... case?","1. Stool sample could be helpful in this case to check for gastrointestinal infections or parasites, as these can cause symptoms such as diarrhea, abdominal pain, and bloating. 
+2. Stool sample could also help identify inflammatory conditions of the digestive tract, such as inflammatory bowel disease or diverticulitis. 
+3. Lastly, a stool sample could be useful in detecting blood in the stool, which could indicate conditions such as gastrointestinal bleeding or colorectal cancer.",Anti-tissue transglutaminase antibodies,Inaccurate.
+16,Has... medication... been... suggested... for... decreasing... the pressure gradient... between... the aorta... and the left ventricle... in... this patient?,"1. Beta-blockers are the most commonly recommended medication for decreasing the pressure gradient between the aorta and the left ventricle in a patient.
+2. Calcium channel blockers can also be suggested to help decrease the pressure gradient between the aorta and the left ventricle.
+3. Angiotensin-converting enzyme (ACE) inhibitors may be another medication that could be recommended to reduce the pressure gradient between the aorta and the left ventricle in this patient.",Metoprolol,Accurate.
+17,At... low concentration... of glucose... and absence... of lactose... which... of the following... occurs?,"1. Activation of cAMP-CRP complex leading to expression of lac operon genes
+2. Repression of lac operon genes by the lac repressor protein
+3. Utilization of alternative carbon sources by the cell",Increased cAMP levels result in binding to the catabolite activator protein,Relevant
+18,"Mama, baby boy... no poopy after one whole day. Tummy big, butt open, white poop found. Why the... stomach tube twisted inside baby boy?","1. Intestinal obstruction: Intestinal obstruction could be causing the symptoms described, including abdominal distension, inability to pass stool, and abnormal white-colored stool. This can be due to the twisting of intestines, known as volvulus, which can lead to a blockage of the intestinal contents, preventing normal bowel movements.
+
+2. Hirschsprung's disease: Hirschsprung's disease is a congenital condition where certain parts of the large intestine have no nerve cells, causing a blockage in the bowel movement. This can lead to symptoms like constipation, abdominal distension, and abnormal stool color.
+
+3. Intussusception: Intussusception is a medical emergency where one portion of the intestine slides into another, causing a blockage. This can lead to symptoms like severe abdominal pain, vomiting, and a palpable mass. If left untreated, it can lead to bowel necrosis and require surgery.",Inferior mesenteric artery,Inaccurate.
+19,Can... you... tell... me... please... what... conditions... is... the... boy... at... increased... risk... of... developing?,"1. Type 1 Diabetes: Children with a family history of type 1 diabetes are at an increased risk of developing the condition themselves.
+2. Asthma: Children who have a family history of asthma or have been exposed to environmental triggers may be at an increased risk of developing asthma.
+3. Childhood Obesity: Children who have poor dietary habits and a sedentary lifestyle are at an increased risk of developing obesity, which can lead to various health conditions such as type 2 diabetes and heart disease.",Mitral regurgitation,Inaccurate
+20,"""Wh-what best treatment... for shoulder pain, limited motion, moderate ache, throwing, 1 week no play, hard raising arm, uh, over head? No recent trauma, asthma, managed, meds: albuterol, fluticasone. 5 years tobacco, no smoking, alcohol, drugs. Temperature uhm, 37.0°C, blood pressure 110/85, pulse 97, respiratory 15, oxygen 99%. Pain in right shoulder when moving arm... or laying down on side. Exam shows uh, tenderness to touch, decreased motion, no swelling, warmth, or redness. Sensation normal, deep reflexes normal. Lab results all normal. MRI shows.... rotator cuff damage. B-best treatment?""","*1* The best treatment for rotator cuff damage causing shoulder pain, limited motion, and moderate ache would likely include physical therapy to strengthen the muscles supporting the shoulder joint, improve range of motion, and reduce pain. In severe cases, surgery may be necessary to repair the damaged rotator cuff.
+
+*2* Nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or naproxen can help to manage the pain and inflammation associated with rotator cuff damage.
+
+*3* Corticosteroid injections may be considered for temporary relief of pain and inflammation in the shoulder joint.",NSAIDs and conservative measures,Accurate
+21,Is...there...any...need...for...this...5-year-old...boy...to...undergo...any...additional...testing...or...imaging...based...on...the...current...clinical...presentation...and...examination...findings?,"1. Yes, it is important to follow up with additional testing or imaging if the clinical presentation and examination findings warrant further investigation.
+2. No, further testing or imaging may not be necessary if the clinical presentation and examination findings do not indicate any underlying issues.
+3. It is recommended to consult with a pediatric specialist to determine the necessity of additional testing or imaging based on the specific case of the 5-year-old boy.",Begin cognitive behavioral therapy,Inaccurate
+22,"A 64-year-old woman, with history of diabetes...*pauses*...poorly managed...*pauses*...comes to emergency room...*pauses*...nausea and vomiting...*pauses*...symptoms began yesterday...*pauses*...getting worse...*pauses*...cannot eat...*pauses*...temperature 102°F (38.9°C)...*pauses*...blood pressure 115/68 mmHg...*pauses*...pulse 120/min...*pauses*...breathing 17/min...*pauses*...oxygen saturation 98%...*pauses*...on room air...*pauses*...physical exam finds...*pauses*...tenderness on left side...*pauses*...urinalysis shows bacteria and pus...*pauses*...hospitalized...*pauses*...given IV ceftriaxone...*pauses*...Day 3 in hospital...*pauses*...no fever...*pauses*...eating and drinking...*pauses*...feeling better...*pauses*...which...*pauses*...antibiotic regimen...*pauses*...starting or continuing...*pauses*...when leaving hospital?","1. Continuing oral antibiotics at discharge to complete the course over a 7-14 day period.
+2. Switching to oral antibiotics at discharge for a 7-14 day course.
+3. Continuing IV antibiotics at discharge to complete a 14-day course.",Trimethoprim-sulfamethoxazole,Inaccurate
+23,Is man...71 years old...goes to doctor...complains...tremor in hands...tremor worse...resting...better...reaches for objects...wife says...moving slow...hard to start walking...steps short...unsteady...physical exam...rigidity in muscles...histology...likely show...what findings?,"*1* Parkinson's disease
+*2* Essential tremor
+*3* Multiple system atrophy",Alpha-synuclein,Relevant
+24,Have... you... recently... been... exposed... to... radon?... Do... you... have... worries... about... the... risk... of... lung cancer... from... radon?...,"1. Testing the indoor air for radon levels is the best way to determine if you have been exposed to radon.
+2. Seeking guidance from a healthcare provider or a specialist in environmental health would be helpful in addressing any concerns about the risk of lung cancer from radon exposure.
+3. Taking preventive measures such as ventilating the house properly and sealing cracks in the foundation can help reduce radon levels in the home.",63.3%,Relevant
+25,Do... you... feel... any... change... in... your... bowel... habits... or... bladder... habits?,"1. Irritable bowel syndrome (IBS)
+2. Urinary tract infection (UTI)
+3. Inflammatory bowel disease (IBD)",Cholelithiasis,Inaccurate
+26,A 32-year-old... woman... comes to... emergency department... because of... severe headache... for 12 hours... Does not smoke... or use drugs... Blood pressure... 180 over 125... Physical exam... shows bruit... in stomach area... Fundoscopy... shows swelling... in both optic discs... Which... investigation... most likely... confirm... diagnosis?,"1. Magnetic resonance angiography (MRA) or computed tomography angiography (CTA) of the head and neck: These imaging studies are often used to evaluate the blood vessels in the brain and neck. In this case, they can help confirm a diagnosis of hypertensive emergency, which can cause severe headache, high blood pressure, and swelling in the optic discs.
+
+2. Blood tests: These may include a complete blood count (CBC), electrolyte levels, renal function tests, and coagulation studies to assess for any abnormalities that may be contributing to the patient's symptoms.
+
+3. Echocardiography: An echocardiogram may be helpful in evaluating the heart structure and function, which can provide information on any potential cardiac causes of the symptoms, such as hypertensive heart disease or aortic dissection.",CT angiography,Relevant
+27,Can you... explain... the... findings... of the... tests... in... simple words... what could... be wrong... with... me?,"1. The findings on the tests suggest that you may have an underlying medical condition that needs further evaluation and treatment.
+
+2. The test results indicate abnormalities that require immediate attention from a healthcare provider.
+
+3. The tests show that there may be an issue with a specific organ or system in your body, and additional testing or consultation with a specialist may be necessary for a diagnosis.",Whipple’s disease,Inaccurate.
+28,What... is... the... most... likely... diagnosis?,"1. Anxiety disorder
+2. Depression
+3. Panic disorder",Blastomycosis,Inaccurate
+29,"""Why... is... likely... deficient... in... this... patient?""","1. Vitamin D is likely deficient in this patient. 
+2. Iron is likely deficient in this patient. 
+3. Vitamin B12 is likely deficient in this patient.",21-hydroxylase,Inaccurate
+30,"""Which... of... the... following... structures... is... most... likely... responsible... for... this... patient’s... current... symptoms?""","1. Pathological lesion in the brain
+2. Inflammation in the spinal cord
+3. Nerve compression in the peripheral nervous system",Superior mesenteric artery,Inaccurate.
+31,Why... best... therapy... for me...?,"1. Cognitive behavioral therapy (CBT): CBT is a widely used and effective form of therapy that focuses on changing negative thought patterns and behaviors. It has been shown to be helpful for a variety of mental health conditions, such as depression, anxiety, and PTSD.
+
+2. Dialectical behavior therapy (DBT): DBT is a type of therapy that combines cognitive behavioral techniques with mindfulness practices. It is often used to treat individuals with borderline personality disorder, but can also be effective for other conditions like eating disorders and substance abuse.
+
+3. Interpersonal therapy (IPT): IPT is a time-limited therapy that focuses on improving communication and relationship skills. It is particularly useful for individuals struggling with interpersonal issues, such as conflicts with others or difficulties forming and maintaining relationships.",Propylthiouracil,Inaccurate.
+32,"Why is it that they want to know which of these things can tell us that the patient is getting better: his blood sugar getting back to a normal level, his blood pressure and pulse stabilizing, his breathing becoming less rapid, or his abdominal tenderness improving?","1. The patient's blood sugar getting back to a normal level - This is a good indicator of stable glucose levels, which is important for overall health and can be a sign of improvement in a patient's condition.
+
+2. His blood pressure and pulse stabilizing - Blood pressure and pulse stabilization are important vital signs that can indicate improvement in a patient's overall health and cardiovascular function.
+
+3. His breathing becoming less rapid - Improvement in breathing rate can indicate better respiratory function, which is essential for overall health and can be a sign of the patient's condition getting better. 
+
+Abdominal tenderness improving - While improvement in abdominal tenderness is important, it may not be as direct of an indicator of overall improvement compared to the other options listed.",Anion gap < 10,Inaccurate.
+33,Do you... have blurry vision and headaches... that started 2 days ago?... Have you... been having facial pain... that you thought... was related... to your toothache?... Are you... concerned... about a black spot... on your face... that is getting bigger?... Do you... feel like... you urinate... too often?...Did you recently... have a runny nose... and cough... that went away by itself?... Were you diagnosed... with type 1 diabetes... when you were 13... years old?...,"1. This question describes symptoms that could potentially be related to sinusitis, which can cause facial pain, blurred vision, and headaches. It would be appropriate to investigate further to rule out this possibility.
+2. The presence of a black spot on the face that is growing in size could suggest a concerning skin lesion that should be evaluated by a healthcare professional. This may be a sign of skin cancer.
+3. The history of being diagnosed with type 1 diabetes at a young age is relevant and could be associated with certain complications or new symptoms that may have arisen. Regular monitoring and follow-up with a healthcare provider is important.",Mucormycosis,Relevant
+34,"""Do you...know...what...genetic...mutation...would...require...thyroidectomy...in...this...patient?""","1. RET proto-oncogene mutation (MEN2 syndrome) - Individuals with this genetic mutation have a high risk of developing medullary thyroid carcinoma, often requiring thyroidectomy.
+2. BRAF mutation - This genetic mutation is commonly found in papillary thyroid carcinoma, and in some cases, thyroidectomy may be necessary.
+3. PTEN gene mutation (Cowden syndrome) - Individuals with this mutation have an increased risk of developing thyroid cancer, which may necessitate thyroidectomy.",RET gene mutation,Accurate
+35,"Do you have any pain or discomfort elsewhere in your body?, How long have you been experiencing the lower back pain?,... and have you had any recent infections or illnesses?","1. The top three most plausible causes for lower back pain could include musculoskeletal issues such as muscle strain or ligament sprain, herniated disc, or degenerative disc disease.
+2. Infections such as a urinary tract infection or kidney infection could cause lower back pain. 
+3. Recent illnesses such as a flu or virus could also contribute to muscle aches and discomfort in the lower back area.",Analgesia and regular activity,Relevant
+36,Do... you... know... what... type... of... hypersensitivity... reaction... is... causing... your... health... problems?,"*1* The most plausible answer to the question regarding the type of hypersensitivity reaction causing health problems would be Type I hypersensitivity reaction, also known as immediate hypersensitivity. This type of reaction involves the production of IgE antibodies in response to allergens, resulting in mast cell degranulation and the release of inflammatory mediators like histamine.
+
+*2* The second plausible answer is Type IV hypersensitivity reaction, also known as delayed-type hypersensitivity. This reaction involves the activation of T cells and is characterized by a delayed onset of symptoms, typically occurring 24-72 hours after exposure to the antigen.
+
+*3* The third plausible answer is Type III hypersensitivity reaction, also known as immune complex-mediated hypersensitivity. This reaction involves the formation of immune complexes that deposit in tissues, triggering an inflammatory response and tissue damage.",Type II–cytotoxic hypersensitivity reaction,relevant
+37,Do you experience headaches in the morning that get better as the day goes on? Any trouble focusing or feeling tired during the day? How many alcoholic drinks do you have each day?How often do you smoke?,"*1* The symptoms described could be indicative of a migraine. Migraines often start in the morning and improve as the day progresses. They can be accompanied by trouble focusing, fatigue, and sensitivity to light and sound.
+
+*2* Another possibility could be a tension headache, which is often associated with stress or muscle tension. These headaches can also worsen throughout the day as the stress accumulates.
+
+*3* Alcohol consumption and smoking can worsen headaches, so it is important to consider these habits when evaluating the potential causes of the symptoms. Excessive alcohol intake or smoking may trigger migraines or tension headaches.",Weight loss,Inaccurate.
+38,Do you... have... any idea... which... tumor marker... may be... associated... with... your... diagnosis?,"*1* CA-125
+*2* PSA
+*3* AFP",Estrogen,Inaccurate
+39,Do you know what is the most likely cause of this man's weakness?,"1. Anemia: Anemia is a common cause of weakness and fatigue in individuals. It can be caused by a variety of factors such as iron deficiency, vitamin B12 deficiency, or chronic diseases.
+2. Hypothyroidism: Low levels of thyroid hormones can lead to weakness, fatigue, and muscle aches. Hypothyroidism can be diagnosed through blood tests measuring TSH and thyroid hormone levels.
+3. Chronic Fatigue Syndrome: Chronic Fatigue Syndrome is a condition characterized by persistent fatigue that is not relieved by rest. Other symptoms may include muscle pain, cognitive difficulties, and impaired sleep. ",Autoantibody-impaired acetylcholine release from nerve terminals,Inaccurate
+40,Can... you... tell... me... how... neutropenia... happens?,"1. Neutropenia can occur as a result of decreased production of neutrophils in the bone marrow due to factors such as chemotherapy or certain medications.
+2. Neutropenia can also be caused by increased destruction of neutrophils in the bloodstream, which may occur in autoimmune diseases or infections.
+3. In some cases, neutropenia can be due to deficiencies in certain nutrients, such as vitamin B12 or folate, which are essential for the production of neutrophils.","↑ activation of neutrophil adhesion molecules, ↓ release of neutrophils in the bone marrow, and ↑ destruction of neutrophils",relevant
+41,Can... uh... what test... uh... can be done on the... uh... blood to... uh... help... uh... diagnose... uh... the... patient's... condition... uh?,"1. Complete Blood Count (CBC): This test can provide valuable information about the different types of cells in the blood, including red blood cells, white blood cells, and platelets. Abnormal levels of these cells can indicate various medical conditions, such as anemia or infection.
+
+2. Blood Chemistry Tests: These tests measure different substances present in the blood, such as electrolytes, glucose, and proteins. Abnormal levels of these substances can indicate conditions like diabetes, kidney disease, or liver problems.
+
+3. Blood Culture: This test is done to check for the presence of bacteria, viruses, or fungi in the blood, which can help diagnose conditions like sepsis or infectious diseases.",Tryptase,Inaccurate.
+42,Do...you...think...you...have...any...idea...what...might...be...causing...your...pain...in...your...hip...and...lower...back...based...on...this...information...about...your...symptoms...and...medical...history...?,"1. Arthritis: Arthritis is a common cause of hip and lower back pain, especially in older individuals or those with a history of joint problems. Symptoms may include joint stiffness, swelling, and reduced range of motion.
+
+2. Herniated disc: A herniated disc in the lower back can cause radiating pain into the hip region. This condition may present with sharp pain, numbness, or tingling in the back and hip area.
+
+3. Muscle strain or ligament sprain: Overuse, poor posture, or sudden movements can lead to muscle strains or ligament sprains in the hips and lower back, resulting in localized pain and discomfort.",Increased rate of bone remodeling,Inaccurate
+43,Which... of... the... following... **cy-to-kines**... would... be-ne-fit... this... pa-ti-ent?,"1. Interleukin-10 (IL-10) - IL-10 is an anti-inflammatory cytokine that inhibits the production of pro-inflammatory cytokines and can help modulate the immune response in conditions like autoimmune diseases or inflammatory disorders.
+
+2. Tumor necrosis factor-alpha (TNF-alpha) - TNF-alpha is a pro-inflammatory cytokine that plays a key role in inflammation and immune response. In some cases, TNF-alpha inhibitors may be used to treat conditions like rheumatoid arthritis or inflammatory bowel disease.
+
+3. Interleukin-6 (IL-6) - IL-6 is a multifunctional cytokine involved in inflammation and immune response. Elevated levels of IL-6 are seen in conditions like rheumatoid arthritis and cytokine release syndrome, so inhibiting IL-6 may be beneficial in these cases.",Interferon-gamma,Relevant
+44,Have... ehm... which characteristics... of rapid diagnostic test... would help stop virus spread?,"1. The ability to provide results quickly: Rapid diagnostic tests that can provide results in a short amount of time, ideally within minutes, can help identify infected individuals promptly and start appropriate treatment or isolation measures to prevent further spread of the virus.
+
+2. High accuracy and sensitivity: Rapid diagnostic tests with high accuracy and sensitivity can reliably detect infection in those with the virus, reducing the chances of false negative results that could lead to unknowingly spreading the virus to others.
+
+3. Ease of use and accessibility: Rapid diagnostic tests that are easy to use and can be easily distributed and administered in various settings (such as healthcare facilities, workplaces, and communities) can help in quickly identifying and isolating infected individuals to prevent further spread of the virus.",Sensitivity of 95/100,Relevant
+45,Is... individual... showing... psychological defense mechanism... by... leaving... deceitful message... about... family emergency... to avoid... additional work?,"*1* Yes, the individual may be using the psychological defense mechanism of **avoidance** by fabricating a deceitful message about a family emergency to avoid taking on additional work.
+
+*2* Another possible psychological defense mechanism that the individual could be using is **rationalization**, where they create a seemingly logical explanation, such as a family emergency, to justify their actions of avoiding additional work.
+
+*3* The individual may also be exhibiting the defense mechanism of **denial**, by refusing to acknowledge or accept the responsibility of completing the additional work and instead creating a false narrative about a family emergency.",Passive aggression,Relevant
+46,Can you... please tell me... what is... the... next best... thing to do... to help you... with your... abdominal... pain?,"1. Take over-the-counter pain medication, such as ibuprofen or acetaminophen, to help alleviate the abdominal pain.
+2. Apply a warm compress to the abdomen to help relax the muscles and ease the discomfort.
+3. Drink plenty of water and avoid foods that may irritate the stomach, such as spicy or fatty foods.",Colonoscopy,Inaccurate
+47,Can you tell me if this study might suggest that taking eplerenone could be helpful for patients who've had a heart attack and now have heart failure?,"1. Yes, the study found that eplerenone, a mineralocorticoid receptor antagonist, reduced mortality and hospitalizations in patients who had previously experienced a heart attack and were at high risk for heart failure.
+2. The study did not specify whether eplerenone could be helpful for patients who've had a heart attack and now have heart failure, as more specific criteria might need to be evaluated.
+3. It is advisable to consult with a healthcare professional to determine the appropriateness of taking eplerenone for patients who have experienced a heart attack and are now suffering from heart failure.","Eplerenone, when added to optimal medical therapy, decreases all cause mortality in patients with left ventricular dysfunction following myocardial infarction.",Accurate.
+48,What...is...the most...likely...diagnosis?,"It seems you may be experiencing symptoms of a stroke (""brain attack""). In this case, the most likely diagnosis would be:
+
+*1* Stroke
+
+*2* Transient ischemic attack (TIA)
+
+*3* Migraine with aura",Water soluble vitamin deficiency,Inaccurate
+49,Are you... family... of patient?,"1. Ask the patient directly if they would like you to be involved in their medical care.
+2. Politely decline to provide information and direct the question to the patient.
+3. Refer the individual to the appropriate healthcare provider for more information.",Discuss the patient's hospital course and expected prognosis with the woman,relevant
