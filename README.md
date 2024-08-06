@@ -1,9 +1,7 @@
-# ***Can I trust artificial intelligence with questions about my health?***
-*Investigating the accuracy of AI-generated responses to simplified and demographic-specific medical questions.*
-
-This project is a part of a 2024 summer research experience for undergraduates (REU) at the University of Minnesota. The REU's focus is human-centered computing for social good, and I am advised by Professor Qianwen Wang.
-### Project description
-Our research group is interested in studying how large language models (LLMs) respond differently to various medical-related inquiries. Specifically, we are studying the difference in how LLMs respond to medical inquiries formulated in a professional tone versus medical inquiries that are demographic-specific. The LLMs we will test are GPT and Llama 3. Our study will consist of feeding various types of medical-related questions into these LLMs in three stages. 
+## ***Can I trust artificial intelligence with questions about my health?***
+*Investigating the accuracy of AI-generated responses to simplified or demographic-specific medical questions.*
+#### Project description and research questions
+This project is part of a 2024 summer research experience for undergraduates (REU) at the University of Minnesota in Minneapolis, Minnesota. The REU's focus is human-centered computing for social good, and I am advised by Professor Qianwen Wang. Our research group is interested in studying how GPT-3.5, a prominent large language model (LLM), responds differently to various medical-related inquiries. Specifically, we are studying whether the widely recognized performance of GPT-3.5 on medical questions will decrease if questions are simplified or asked in unprofessional, realistic tones. If so, we are curious which factors make significant contributions to the decrease in performance.  
 #### <ins>Stage 1</ins>
 In the first stage, our input is a set of practice questions from the United States Medical Licensing Exam (USMLE). The USMLE is a three-step test that medical graduates must pass in order to become licensed medical professionals in the United States. The dataset contains over 10,000 questions from all three steps of the USMLE. We will feed these questions into GPT and Llama3 and record the LLMs' responses. Since the USMLE questions are considered professional medical questions, this stage of our research will serve as a metric of baseline LLM performance on standard medical inquiries.
 #### <ins>Stage 2</ins>
