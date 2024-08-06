@@ -1,5 +1,5 @@
-## ***Can I trust artificial intelligence with questions about my health?***
-*Investigating the accuracy of AI-generated responses to simplified or demographic-specific medical questions.*
+# ***Can I trust artificial intelligence with questions about my health?***
+*Investigating the accuracy of AI-generated responses to simplified and demographic-specific medical questions.*
 
 This project is a part of a 2024 summer research experience for undergraduates (REU) at the University of Minnesota. The REU's focus is human-centered computing for social good, and I am advised by Professor Qianwen Wang.
 ### Project description
