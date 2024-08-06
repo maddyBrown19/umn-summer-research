@@ -15,7 +15,7 @@ number_of_clusters = 10
 
 """IMPORTANT: You need to follow this link: https://drive.google.com/open?id=1t5tWWv5xkkU-YerJZabu-QMBajaqAnDB
 to download the Reddit data on your computer. Make sure to name the file 'AskDocs.csv' so it matches the notation
-below and the function works.""""
+below and the function works."""
 def read_data():
     """Reads in Reddit AskDocs data and returns it in a DataFrame."""
     file = "AskDocs.csv"
