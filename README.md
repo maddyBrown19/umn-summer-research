@@ -1,4 +1,4 @@
-## **Explaining Medical Decisions Made by AI**
+## ***Explaining Medical Decisions Made by AI***
 This project is a part of a 2024 summer research experience for undergraduates (REU) at the University of Minnesota. The REU's focus is human-centered computing for social good, and I am advised by Professor Qianwen Wang.
 ### Project description
 Our research group is interested in studying how large language models (LLMs) respond differently to various medical-related inquiries. Specifically, we are studying the difference in how LLMs respond to medical inquiries formulated in a professional tone versus medical inquiries that are demographic-specific. The LLMs we will test are GPT and Llama 3. Our study will consist of feeding various types of medical-related questions into these LLMs in three stages. 
